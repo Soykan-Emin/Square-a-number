@@ -1,0 +1,17 @@
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\kullanıcı-\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı-\Documents\Visual Studio 2010\Projects\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı-\Documents\Visual Studio 2010\Projects\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\SOYKAN\Desktop\C# Sayının Karesi\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
